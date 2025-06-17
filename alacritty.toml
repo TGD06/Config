@@ -1,0 +1,29 @@
+import = [
+    "~/.config/alacritty/dark_flat.toml"
+]
+
+[selection]
+save_to_clipboard = true
+
+[window]
+decorations = "Full"
+
+[cursor]
+vi_mode_style = "Block"
+
+[font]
+size = 8
+
+[font.normal]
+family = "SF Mono"
+style = "Regular"
+
+[font.italic]
+family = "SF Mono"
+style = "Italic"
+
+[font.bold]
+family = "SF Mono"
+style = "Bold"
+
+
