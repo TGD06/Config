@@ -1,0 +1,4 @@
+
+alias cd='z'
+eval "$(zoxide init bash)"
+alias ls='eza --icons'
